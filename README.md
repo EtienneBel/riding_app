@@ -1,10 +1,10 @@
 # Implementation Order and Technologies for Ride-Hailing App (Flutter-based)
 
-## 1. Project Setup and Planning
+~~## 1. Project Setup and Planning
 - Define app requirements and features
 - Create wireframes and design mockups
 - Set up Flutter development environment
-- Initialize Git repository
+- Initialize Git repository~~
 
 ## 2. Backend Development
 - Choose a backend technology (e.g., Node.js with Express)
